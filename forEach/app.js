@@ -12,7 +12,7 @@ a.forEach(function(element){ //recibe como parametro de entrada una funcion y un
 
             //un forEach sirve para recorrer o iterar los elementos de un array al igual que el for
 
-for(let i = 0; i < a.length; i++){ // esto es lo mismo que esta arriba solo que echo con "for"
+for(let i = 0; i < a.length; i++){ // esto es lo mismo que esta arriba solo que echo con el metodo "for"
 
     console.log(a[i]);
 }            
